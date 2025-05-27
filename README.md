@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-Here’s your content with clear dividing lines (`---`) between each section to improve readability:
+
 
 ---
 
